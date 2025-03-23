@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/WelcomeExtended/WelcomeExtended.csproj": {}
+  },
+  "projects": {
+    "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/Welcome.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/Welcome.csproj",
+        "projectName": "Welcome",
+        "projectPath": "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/Welcome.csproj",
+        "packagesPath": "/home/ivaylo/.nuget/packages/",
+        "outputPath": "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ivaylo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/WelcomeExtended/WelcomeExtended.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/WelcomeExtended/WelcomeExtended.csproj",
+        "projectName": "WelcomeExtended",
+        "projectPath": "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/WelcomeExtended/WelcomeExtended.csproj",
+        "packagesPath": "/home/ivaylo/.nuget/packages/",
+        "outputPath": "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/WelcomeExtended/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ivaylo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/Welcome.csproj": {
+                "projectPath": "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/Welcome.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vThWi6GGfk=",
+  "success": true,
+  "projectFilePath": "/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/Welcome.csproj",
+  "expectedPackageFiles": [
+    "/home/ivaylo/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/ivaylo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/ivaylo/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
