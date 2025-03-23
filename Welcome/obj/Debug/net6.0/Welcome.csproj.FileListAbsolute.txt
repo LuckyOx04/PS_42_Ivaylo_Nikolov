@@ -12,3 +12,4 @@
 /home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/obj/Debug/net6.0/Welcome.pdb
 /home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/obj/Debug/net6.0/Welcome.genruntimeconfig.cache
 /home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/obj/Debug/net6.0/ref/Welcome.dll
+/home/ivaylo/RiderProjects/PS_42_Ivaylo_Nikolov/Welcome/obj/Debug/net6.0/Welcome.sourcelink.json
